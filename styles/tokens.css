@@ -1,0 +1,20 @@
+:root {
+  --bg-navy: #090e1a;
+  --bg-panel: #101729;
+  --bg-card: #162038;
+  --bg-hover: #1e2c4b;
+  --border-subtle: rgba(148, 163, 184, 0.14);
+  --border-strong: rgba(148, 163, 184, 0.28);
+
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+
+  --cyan: #22d3ee;
+  --lime: #a3e635;
+  --amber: #fbbf24;
+  --rose: #f43f5e;
+  --indigo: #818cf8;
+
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", "Cascadia Code", ui-monospace, monospace;
+}
